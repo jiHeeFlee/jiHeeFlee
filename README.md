@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 **_✨ my skill ✨_**
 
 </br>
-
+**FrontEnd**
   <div align='center'>
   <img src="https://img.shields.io/badge/HTML-FFF?style=flat-the-badge&logo=html5&logoColor=White">
   
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 </div>
 
 </br>
-
+**BackEnd**
 <div align='center'>
   <img src="https://img.shields.io/badge/Python-FFF?style=flat-the-badge&logo=python&logoColor=White">
   
@@ -52,11 +52,13 @@ Here are some ideas to get you started:
 </div>
 
 </br>
-
+**Development Tools**
 <div align='center'>
   <img src="https://img.shields.io/badge/GitHub-FFF?style=flat-the-badge&logo=github&logoColor=181717">
   
   <img src="https://img.shields.io/badge/Notion-FFF?style=flat-the-badge&logo=notion&logoColor=000000">
+
+  <img src="https://img.shields.io/badge/Figma-FFF?style=flat-the-badge&logo=figma&logoColor=F24E1E">
 </div>
 
 </br>
