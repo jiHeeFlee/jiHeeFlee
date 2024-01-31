@@ -1,4 +1,4 @@
-### Hi there 👋 I'm **jihee Rye**. 
+## Hi there 👋 I'm **jihee Rye**. 
 
 <br/>
 Currently i'm studing about **🧡Department of indian studies** and **💻Ai&software**.
@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning about  **_javaScript_** !!
 
-**_✨ my skill ✨_**
+### ✨ my skill ✨ 
 
 </br>
-**FrontEnd**
-  <div align='center'>
+FrontEnd
+  <div>
   <img src="https://img.shields.io/badge/HTML-FFF?style=flat-the-badge&logo=html5&logoColor=White">
   
   <img src="https://img.shields.io/badge/JavaScript-FFF?style=flat-the-badge&logo=javascript&logoColor=White">
@@ -44,22 +44,34 @@ Here are some ideas to get you started:
 </div>
 
 </br>
-**BackEnd**
-<div align='center'>
+BackEnd
+<div>
   <img src="https://img.shields.io/badge/Python-FFF?style=flat-the-badge&logo=python&logoColor=White">
   
   <img src="https://img.shields.io/badge/MySQL-FFF?style=flat-the-badge&logo=mysql&logoColor=White">
 </div>
 
 </br>
-**Development Tools**
-<div align='center'>
+Development Tools
+<div>
   <img src="https://img.shields.io/badge/GitHub-FFF?style=flat-the-badge&logo=github&logoColor=181717">
   
   <img src="https://img.shields.io/badge/Notion-FFF?style=flat-the-badge&logo=notion&logoColor=000000">
 
   <img src="https://img.shields.io/badge/Figma-FFF?style=flat-the-badge&logo=figma&logoColor=F24E1E">
 </div>
+
+#### 📞 Contact 📞
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:esder1310@gmail.com">
+        <img src="https://img.shields.io/badge/
+        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+    <a href="https://www.instagram.com/ji__heeeee_?igsh=MWJvNGo2Z3g4MTA4eQ%3D%3D&utm_source=qr">
+        <img src="https://img.shields.io/badge/
+        Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    </a>
+
 
 </br>
 
