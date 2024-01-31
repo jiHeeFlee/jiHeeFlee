@@ -2,6 +2,11 @@
 
 
 ### Hi there 👋
+I'm **jihee Rye**. 
+<br/>
+Currently i'm studing about **Department of indian studies** and **Ai&software**.
+<br/>
+and I majored in **Digital Media Design** at my previous university.
 
 <!--
 **jiHeeFlee/jiHeeFlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
