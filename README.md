@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 </br>
 
   <div align='center'>
+    ###✨ _Skills_ ✨
   <img src="https://img.shields.io/badge/HTML-FFF?style=flat-the-badge&logo=html5&logoColor=White">
   
   <img src="https://img.shields.io/badge/JavaScript-FFF?style=flat-the-badge&logo=javascript&logoColor=White">
