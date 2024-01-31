@@ -50,13 +50,15 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Python-FFF?style=flat-the-badge&logo=python&logoColor=White">
   
   <img src="https://img.shields.io/badge/MySQL-FFF?style=flat-the-badge&logo=mysql&logoColor=White">
-  
+</div>
+
+</br>
+
+<div align='center'>
   <img src="https://img.shields.io/badge/GitHub-FFF?style=flat-the-badge&logo=github&logoColor=181717">
   
   <img src="https://img.shields.io/badge/Notion-FFF?style=flat-the-badge&logo=notion&logoColor=000000">
 </div>
-
-</br>
 
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiHeeFlee&theme=graywhite&show_icons=true)
