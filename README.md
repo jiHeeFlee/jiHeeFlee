@@ -1,8 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&text=jiHeeFlee&color=gradient&customColorList=0,2,2,5,30")
+### Hi there 👋 I'm **jihee Rye**. 
 
-
-### Hi there 👋
-I'm **jihee Rye**. 
 <br/>
 Currently i'm studing about **Department of indian studies** and **Ai&software**.
 <br/>
