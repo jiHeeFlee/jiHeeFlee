@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm **jihee Rye**. 
 
 <br/>
-Currently i'm studing about **Department of indian studies** and **Ai&software**.
+Currently i'm studing about **_Department of indian studies_** and **_Ai&software_**.
 <br/>
 and I majored in **Digital Media Design** at my previous university.
 
