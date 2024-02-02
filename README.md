@@ -61,18 +61,6 @@ Development Tools
   <img src="https://img.shields.io/badge/Figma-FFF?style=flat-the-badge&logo=figma&logoColor=F24E1E">
 </div>
 
-#### 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:esder1310@gmail.com">
-        <img src="https://img.shields.io/badge/
-        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-    <a href="https://www.instagram.com/ji__heeeee_?igsh=MWJvNGo2Z3g4MTA4eQ%3D%3D&utm_source=qr">
-        <img src="https://img.shields.io/badge/
-        Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
-    </a>
-
-
 </br>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiHeeFlee&theme=graywhite&show_icons=true)
