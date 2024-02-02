@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning about  **_javaScript_** !!
+🌱 I’m currently learning about  **_javaScript&python_** !!
 
 ### ✨ my skill ✨ 
 
