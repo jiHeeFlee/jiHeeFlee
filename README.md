@@ -63,4 +63,9 @@ Development Tools
 
 </br>
 
+📫Information
+nickname : flee
+e-mail : esder1310@naver.com / gmail.com
+Blog(velog) : https://velog.io/@heeflee_1310/posts
+
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiHeeFlee&theme=graywhite&show_icons=true)
