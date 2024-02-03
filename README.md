@@ -27,38 +27,38 @@ Here are some ideas to get you started:
 </br>
 FrontEnd
   <div>
-  <img src="https://img.shields.io/badge/HTML-FFF?style=flat-the-badge&logo=html5&logoColor=White">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white">
   
-  <img src="https://img.shields.io/badge/JavaScript-FFF?style=flat-the-badge&logo=javascript&logoColor=White">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white">
   
-  <img src="https://img.shields.io/badge/CSS-FFF?style=flat-the-badge&logo=css3&logoColor=1572B6">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">
   
-  <img src="https://img.shields.io/badge/React-FFF?style=flat-the-badge&logo=react&logoColor=White">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white">
   
-  <img src="https://img.shields.io/badge/Next.js-FFF?style=flat-the-badge&logo=next.js&logoColor=000000">
+  <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white">
   
-  <img src="https://img.shields.io/badge/TypeScript-FFF?style=flat-the-badge&logo=typescript&logoColor=White">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
   
-  <img src="https://img.shields.io/badge/styled-components-FFF?style=flat-the-badge&logo=styled-components&logoColor=White">
+  <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat&logo=styled-components&logoColor=white">
   
 </div>
 
 </br>
 BackEnd
 <div>
-  <img src="https://img.shields.io/badge/Python-FFF?style=flat-the-badge&logo=python&logoColor=White">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
   
-  <img src="https://img.shields.io/badge/MySQL-FFF?style=flat-the-badge&logo=mysql&logoColor=White">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
 </div>
 
 </br>
 Development Tools
 <div>
-  <img src="https://img.shields.io/badge/GitHub-FFF?style=flat-the-badge&logo=github&logoColor=181717">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
   
-  <img src="https://img.shields.io/badge/Notion-FFF?style=flat-the-badge&logo=notion&logoColor=000000">
+  <img src="https://img.shields.io/badge/Notion-000?style=flat&logo=notion&logoColor=white">
 
-  <img src="https://img.shields.io/badge/Figma-FFF?style=flat-the-badge&logo=figma&logoColor=F24E1E">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white">
 </div>
 
 </br>
