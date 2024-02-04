@@ -67,7 +67,7 @@ Development Tools
 </br>
 nickname : flee
 </br>
-e-mail : esder1310@naver.com / gmail.com
+e-mail : esder1310@naver.com
 </br>
 Blog(velog) : https://velog.io/@heeflee_1310/posts
 </br>
