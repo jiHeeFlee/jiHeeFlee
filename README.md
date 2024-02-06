@@ -1,6 +1,6 @@
 ## Hi there 👋 
 <br/>
-I'm **jihee Rye**. 
+I'm jihee Rye. 
 
 <br/>
 Currently i'm studing about 🧡Department of indian studies and 💻Ai&software.
