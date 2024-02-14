@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 🌱 I’m currently learning about  **_javaScript&python_** !!
 <br/>
 <br/>
-🦁 likelion 11th&12th
+🦁 **likelion 11th&12th**
 <br/>
-☁️ 9oormthon.univ2
+☁️ **9oormthon.univ2**
 ### ✨ my skill ✨ 
 
 </br>
