@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ### ✨ my skill ✨ 
 
 </br>
-**👩‍💻FrontEnd**
+👩‍💻 **FrontEnd**
   <div>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white">
   
