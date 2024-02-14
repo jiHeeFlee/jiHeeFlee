@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ### ✨ my skill ✨ 
 
 </br>
-👩‍💻**FrontEnd**
+**👩‍💻FrontEnd**
   <div>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white">
   
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 </div>
 
 </br>
-💿**BackEnd**
+**💿BackEnd**
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
   
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 </div>
 
 </br>
-⚙️**Development Tools**
+**⚙️Development Tools**
 <div>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
   
