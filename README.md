@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 </br>
 nickname : flee
 </br>
-e-mail : esder1310@naver.com
+e-mail : esder1310@naver.com / esder1310@gmail.com
 </br>
 Blog(velog) : https://velog.io/@heeflee_1310/posts
 </br>
