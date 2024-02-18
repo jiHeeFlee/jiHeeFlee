@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br/>
 ⛄️ I like snowman!!
+<br/>
 🌱 I’m currently learning about  **_javaScript&python_** !!
 <br/>
 <br/>
