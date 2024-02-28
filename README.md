@@ -1,17 +1,18 @@
 ## Hi there 👋 
+
 ### 📌 Activity
 ###### 🦁 likelion 11th&12th
 ###### ☁️ 9oormthon.univ2
+
 ### ✨ myskill ✨
 ###### 👩‍💻 Front-End
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
-
+  <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat&logo=styled-components&logoColor=white"><div>
+
 ###### 💿 Back-End
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"><div>
 
@@ -26,18 +27,16 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=figma&logoColor=white">
 
   <img src="https://img.shields.io/badge/discord-5865F2?style=flat&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=figma&logoColor=white">
 
-###### 📫 Information
+### 📫 Information
+```
+🙂 nickname : flee
+💌 e-mail : esder1310@naver.com / esder1310@gmail.com
+📒 velog : https://velog.io/@heeflee_1310/posts
+```
 
-nickname : flee
-</br>
-e-mail : esder1310@naver.com / esder1310@gmail.com
-</br>
-<img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=figma&logoColor=white"> : https://velog.io/@heeflee_1310/posts
-</br>
-
-
-
+### 📢 About me
 ```
 I'm jihee Rye. 
 
