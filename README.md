@@ -2,7 +2,7 @@
 > If there is a color you want, 
 look at it until your eyes are blinded.
 The whole body will be destroyed as much as possible.
-> __ 🌊 파도색 박자용 __
+> _(🌊 파도색 박자용)_
 > _ 파도색 박자용 _
 
 ### 📌 Activity
