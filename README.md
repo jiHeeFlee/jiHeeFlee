@@ -1,4 +1,8 @@
 ## Hi there 👋 
+> If there is a color you want, 
+look at it until your eyes are blinded.
+The whole body will be destroyed as much as possible.
+> _파도색 _ 박자용 _
 
 ### 📌 Activity
 ###### 🦁 likelion 11th&12th
@@ -42,7 +46,6 @@ and I majored in 🎨 Digital Media Design at my previous university.
 
 ⛄️ I like snowman!!
 🌱 I’m currently learning about javaScript&python!!
-
 
 ```
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiHeeFlee&theme=graywhite&show_icons=true)
