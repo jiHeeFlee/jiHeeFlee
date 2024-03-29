@@ -2,6 +2,7 @@
 > If there is a color you want, 
 look at it until your eyes are blinded.
 The whole body will be destroyed as much as possible.
+> 
 > 부서질때 빛은 번지고
 섞어 뭉개질때 색은 발한다
 그러나 흘러가게 되더라도
