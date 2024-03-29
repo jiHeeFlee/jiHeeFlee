@@ -3,11 +3,7 @@
 look at it until your eyes are blinded.
 The whole body will be destroyed as much as possible.
 > 
-> 부서질때 빛은 번지고
-섞어 뭉개질때 색은 발한다
-그러나 흘러가게 되더라도
-방향은 잊지 말 것
-바라는 색이 있다면
+>바라는 색이 있다면
 눈이멀도록 바라볼것
 가능한 온몸으로 부서질것
 > 
