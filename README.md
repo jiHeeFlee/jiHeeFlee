@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I'm jihee Ryu, just call me flee!! 😄
+### I'm jihee Ryu, FE Dev!! Just call me flee!! 😄
 > If there is a color you want, 
 look at it until your eyes are blinded.
 The whole body will be destroyed as much as possible.
