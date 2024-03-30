@@ -1,4 +1,5 @@
-## Hi there 👋 
+## Hi there 👋
+## I'm jihee Ryu, just call me flee!! 😄
 > If there is a color you want, 
 look at it until your eyes are blinded.
 The whole body will be destroyed as much as possible.
@@ -21,7 +22,7 @@ The whole body will be destroyed as much as possible.
 | **2024.02-ing**                                         | ☁️ 9oormthone.univ2 HUFS global |
 
 
-### ✨ myskill ✨
+### 📦 Toolbox
 ###### 👩‍💻 Front-End
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat&logo=styled-components&logoColor=white"><div>
 
@@ -48,13 +49,9 @@ The whole body will be destroyed as much as possible.
 📒 velog : https://velog.io/@heeflee_1310/posts
 ```
 
-### 📢 About me
+### 📢 Fun Facts
 ```
-I'm jihee Rye. 
-
-
 Currently i'm studing about 🧡 Department of indian studies and 💻 Ai&software.
-
 and I majored in 🎨 Digital Media Design at my previous university.
 
 ⛄️ I like snowman!!
