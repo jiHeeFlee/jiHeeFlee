@@ -58,6 +58,8 @@ and I majored in 🎨 Digital Media Design at my previous university.
 
 ⛄️ I like snowman!!
 🌱 I’m currently learning about javaScript&python!!
+🧊 I like cold noodle!!
+🎧 I like Dept and DAY6!!
 
 ```
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiHeeFlee&theme=graywhite&show_icons=true)
