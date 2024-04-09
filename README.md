@@ -10,7 +10,7 @@ The whole body will be destroyed as much as possible.
 눈이멀도록 바라볼것
 가능한 온몸으로 부서질것
 > 
-> _(🌊 파도색 박자용)_
+> _(🌊 파도색 박지용)_
 
 ### 📌 Activity
 | **Date** | content |
