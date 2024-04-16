@@ -61,6 +61,7 @@ and I majored in 🎨 Digital Media Design at my previous university.
 🌱 I’m currently learning about javaScript&python!!
 🧊 I like cold noodle!!
 🎧 I like Dept and DAY6!!
+🩷 I hate summer, but I like summer nights, I like winter, but I hate winter nights
 
 ```
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiHeeFlee&theme=graywhite&show_icons=true)
