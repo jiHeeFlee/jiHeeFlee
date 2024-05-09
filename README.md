@@ -58,7 +58,7 @@ Currently i'm studing about 🧡 Department of indian studies and 💻 Ai&softwa
 and I majored in 🎨 Digital Media Design at my previous university.
 
 ⛄️ I like snowman!!
-🌱 I’m currently learning about javaScript&python!!
+🌱 I’m currently learning about redux&axios...!!
 🧊 I like cold noodle!!
 🎧 I like Dept and DAY6!!
 🩷 I hate summer, but I like summer nights, I like winter, but I hate winter nights
