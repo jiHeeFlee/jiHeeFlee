@@ -22,7 +22,6 @@ The whole body will be destroyed as much as possible.
 | **2024.01-ing**                                        | 🦁 likelion 12th Management team - FE  |
 | **2024.01-02**                                       | 🌱 GDSC HUFS 2024 잔디왕 김훕스 | 
 | **2024.02-ing**                                         | ☁️ 9oormthone.univ2 HUFS global |
-| **2024.04-ing**                                         | 🎨 HUFS project Art Storyage |
 
 
 ### 📦 Toolbox
