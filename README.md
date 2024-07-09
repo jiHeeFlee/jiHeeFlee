@@ -12,6 +12,7 @@ The whole body will be destroyed as much as possible.
 > 
 > _(🌊 파도색 박지용)_
 
+
 ### 📌 Activity
 | **Date** | content |
 |--------------------------------------------------| ---------- |
@@ -24,6 +25,8 @@ The whole body will be destroyed as much as possible.
 | **2024.02-ing**                                         | ☁️ 9oormthone.univ2 HUFS global |
 | **2024.03-06**                                         | 🦋 HUFS GLOBAL Capstone Design - GQ |
 | **2024.06.28-06.29**                                         | 🏀 2024 HUFSummer Hackathon - DoL |
+| **2024.07.09-07.12**                                         | 🏀 2024 Summer OpenSourceSW |
+
 
 
 ### 📦 Toolbox
