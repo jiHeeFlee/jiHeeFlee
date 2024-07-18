@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I'm jihee Ryu, FE Dev!! Just call me flee!! 😄
+### I'm jihee Ryu, FE Dev!! Just call me flee!!! 😄
 
 ### 📘 Favorite phrase
 > If there is a color you want, 
