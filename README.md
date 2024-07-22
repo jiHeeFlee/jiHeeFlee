@@ -22,7 +22,7 @@ The whole body will be destroyed as much as possible.
 | **2023.12**                                         | 📝 HUFS Winter Hufstudy |
 | **2024.01-ing**                                        | 🦁 likelion 12th Management team - FE  |
 | **2024.01-02**                                       | 🌱 GDSC HUFS 2024 잔디왕 김훕스 | 
-| **2024.02-ing**                                         | ☁️ 9oormthone.univ2 HUFS global |
+| **2024.02-03.24**                                         | ☁️ 9oormthone.univ2 HUFS global |
 | **2024.03-06**                                         | 🦋 HUFS GLOBAL Capstone Design - GQ |
 | **2024.06.28-06.29**                                         | 🏀 2024 HUFSummer Hackathon - DoL |
 | **2024.07.09-07.12**                                         | 📝 2024 Summer OpenSourceSW |
