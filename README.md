@@ -25,7 +25,7 @@ The whole body will be destroyed as much as possible.
 | **2024.02-03.24**                                         | ☁️ 9oormthone.univ2 HUFS global |
 | **2024.03-06**                                         | 🦋 HUFS GLOBAL Capstone Design - GQ |
 | **2024.06.28-06.29**                                         | 🏀 2024 HUFSummer Hackathon - DoL |
-| **2024.07.09-07.12**                                         | 📝 2024 Summer OpenSourceSW |
+| **2024.07.09-07.12**                                         | 📝 2024 Summer OpenSourceSW - Devo|
 | **2024.06.30-08.07**                                         | 👟 2024 LikeLion 12th Hackathon - RunWithMate |
 
 
