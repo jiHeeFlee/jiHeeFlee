@@ -1,16 +1,6 @@
 ## Hi there 👋
 ### I'm jihee Ryu, FE Dev!! Just call me flee!!! 😄
-
-### 📘 Favorite phrase
-> If there is a color you want, 
-look at it until your eyes are blinded.
-The whole body will be destroyed as much as possible.
-> 
->바라는 색이 있다면
-눈이멀도록 바라볼것
-가능한 온몸으로 부서질것
-> 
-> _(🌊 파도색 박지용)_
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiHeeFlee&theme=graywhite&show_icons=true)
 
 
 ### 📌 Activity
@@ -57,17 +47,3 @@ The whole body will be destroyed as much as possible.
 💌 e-mail : esder1310@naver.com / esder1310@gmail.com
 📒 velog : https://velog.io/@heeflee_1310/posts
 ```
-
-### 📢 Fun Facts
-```
-Currently i'm studing about 🧡 Department of indian studies and 💻 Ai&software.
-and I majored in 🎨 Digital Media Design at my previous university.
-
-⛄️ I like snowman!!
-🌱 I’m currently learning about redux&axios...!!
-🧊 I like cold noodle!!
-🎧 I like Dept and DAY6!!
-🩷 I hate summer, but I like summer nights, I like winter, but I hate winter nights
-
-```
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiHeeFlee&theme=graywhite&show_icons=true)
