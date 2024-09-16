@@ -18,6 +18,7 @@
 | **2024.07.09-07.12**                                         | 📝 2024 Summer OpenSourceSW - Devo|
 | **2024.06.30-08.07**                                         | 👟 2024 LikeLion 12th Hackathon - RunWithMate |
 | **2024.07 - ing**                                         | ☁️ 9oormthone.univ3 HUFS global |
+| **2024.08 - ing**                                         | ☁️ 9oorm DeepDive Fullstack boot camp |
 
 
 
