@@ -21,7 +21,7 @@
 | **2024.08 - ing**                                         | 👩‍💻 9oorm DeepDive Fullstack boot camp |
 | **2024.10.15 - ing**                                         | 🪐 woowacourse 7th precourse - FE |
 | **2024.10.18 - ing**                                         |  ☁️ 9oormthone.univ3 Danpoongthon - FE |
-| **2024.11.16**                                         |  🦉 Hufsthon 2024 - FE 🏆 최우수상|
+| **2024.11.16**                                         |  🦉 Hufsthon 2024 - FE 🏆 **최우수상**|
 
 
 
