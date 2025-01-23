@@ -52,5 +52,9 @@
 ```
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{jiHeeFlee}?pet-id=1" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/{jiHeeFlee}?pet-id=670280618821875424" width="1000" height="120"/>
+</a>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{jiHeeFlee}"/>
 </a>
