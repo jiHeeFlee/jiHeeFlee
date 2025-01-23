@@ -2,7 +2,6 @@
 ### I'm jihee Ryu, FE Dev!! Just call me flee!!! 😄
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiHeeFlee&theme=graywhite&show_icons=true)
 
-
 ### 📌 Activity
 | **Date** | content |
 |--------------------------------------------------| ---------- |
@@ -51,3 +50,7 @@
 💌 e-mail : esder1310@naver.com / esder1310@gmail.com
 📒 velog : https://velog.io/@heeflee_1310/posts
 ```
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{jiHeeFlee}?pet-id=1" width="1000" height="120"/>
+</a>
