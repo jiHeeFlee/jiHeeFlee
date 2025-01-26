@@ -22,7 +22,7 @@
 | **2024.10.18 - 11.24**                                         |  ☁️ 9oormthone.univ3 Danpoongthon - FE |
 | **2024.11.16**                                         |  🦉 Hufsthon 2024 - FE 🏆 **최우수상**|
 | **2025.01.09 - 02.02**                                         |  👩‍💻 9oorm DeepDive Fullstack - web IDE project, coedu |
-| **2025.02.09 - ing **                                         |  🫱🏻‍🫲🏼 Plink |
+| **2025.02.09 - ing**                                         |  🫱🏻‍🫲🏼 Plink |
 
 
 ### 📦 Toolbox
