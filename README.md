@@ -21,7 +21,8 @@
 | **2024.10.15 - ing**                                         | 🪐 woowacourse 7th precourse - FE |
 | **2024.10.18 - 11.24**                                         |  ☁️ 9oormthone.univ3 Danpoongthon - FE |
 | **2024.11.16**                                         |  🦉 Hufsthon 2024 - FE 🏆 **최우수상**|
-| **2025.01.09 - 02.02**                                         |  👩‍💻 9oorm DeepDive Fullstack - web IDE project, coedu |
+| **2025.01.09 - 02.02**                                         |  👩‍💻 9oorm DeepDive Fullstack - 1st web IDE project, coedu |
+| **2025.02.04 - ing**                                         |  👩‍💻 9oorm DeepDive Fullstack - 2st project |
 | **2025.02.09 - ing**                                         |  🫱🏻‍🫲🏼 Plink |
 
 
