@@ -1,5 +1,5 @@
 # Jihee Ryu 👋
-#### Just call me flee!!! 😄
+#### Just call me flee!! 😄
 
 ### 📌 Activity
 | **Date** | content |
