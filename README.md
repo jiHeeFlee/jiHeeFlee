@@ -1,5 +1,11 @@
 # Jihee Ryu 👋
 
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,react,styledcomponents,emotion,next,vite,pwa,vercel)](https://skillicons.dev)
+
+## Cooperation
+[![My Skills](https://skillicons.dev/icons?i=notion,figma,Discord)](https://skillicons.dev)
+
 ### 📌 Activity
 | **Date** | content |
 |--------------------------------------------------| ---------- |
