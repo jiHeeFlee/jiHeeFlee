@@ -30,17 +30,17 @@
 
 #### ☁️ 9oormthon
 > **2024.03** 2th Design
-> 
+
 > **2024.07** 3th FE
->
+
 > **2024.07** Full-Stack DeepDive BootCamp 11th
->
+
 > **2024.10.18 - 11.24** 9oormthone.univ3 Danpoongthon - FE
->
+
 > **2025.01.09 - 02.02** 9oorm DeepDive Fullstack - 1st web IDE project, coedu
 >
 > **🔗 deploy** https://coedu.vercel.app/
->
+
 > **2025.02.04 - ing** 👩‍💻 9oorm DeepDive Fullstack - 2st project
 
 #### 🦉 HUFS
@@ -64,9 +64,9 @@
 
 #### etc
 > **2023.07 - 12** 경기청년 갭이어 프로그램 2기 : Tori
-> 
+
 > **2025.01**  Plink
-> 
+
 > **2024.10 - 11** woowacourse 7th precourse - FE 
 
 
