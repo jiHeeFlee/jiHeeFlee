@@ -14,7 +14,7 @@
 > **double major**  :  👩‍💻 Department of ai&software
 
 ### ✨ Tech Stack
-#### Front-end
+#### Developer
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,react,styledcomponents,emotion,next,vite,vercel,python)](https://skillicons.dev)
 
 #### Cooperation
@@ -39,7 +39,7 @@
 
 > **2025.01.09 - 02.02** 9oorm DeepDive Fullstack - 1st web IDE project, coedu
 >
-> **🔗 deploy** https://coedu.vercel.app/
+> 🔗 https://coedu.vercel.app/
 
 > **2025.02.04 - ing** 👩‍💻 9oorm DeepDive Fullstack - 2st project
 
@@ -52,7 +52,7 @@
 
 > **2024.03** HUFS GLOBAL Capstone Design - GQ
 > 
-> **🔗 deploy** https://hufs-gq.vercel.app/
+> 🔗 https://hufs-gq.vercel.app/
 
 > **2024.06.28 - 29** 2024 HUFSummer Hackathon - DoL
 
@@ -60,7 +60,7 @@
 
 > **2024.11.16** Hufsthon 2024 - FE 🏆 **최우수상**
 > 
->  **🔗 deploy** https://starplace.klr.kr
+>  🔗 https://starplace.klr.kr
 
 #### etc
 > **2023.07 - 12** 경기청년 갭이어 프로그램 2기 : Tori
