@@ -70,12 +70,6 @@
 > **2024.10 - 11** woowacourse 7th precourse - FE 
 
 
-### 📫 Information
-```
-🙂 nickname : flee
-💌 e-mail : esder1310@naver.com / esder1310@gmail.com
-📒 velog : https://velog.io/@heeflee_1310/posts
-```
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiHeeFlee&theme=graywhite&show_icons=true)
 
@@ -86,3 +80,11 @@
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{jiHeeFlee}" width="1300"/>
 </a>
+
+
+### 📫 Information
+```
+🙂 nickname : flee
+💌 e-mail : esder1310@naver.com / esder1310@gmail.com
+📒 velog : https://velog.io/@heeflee_1310/posts
+```
