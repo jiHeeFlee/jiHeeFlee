@@ -70,7 +70,7 @@
 > **2024.10 - 11** woowacourse 7th precourse - FE 
 
 
-
+### 🐈‍⬛ Github Activity
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiHeeFlee&theme=graywhite&show_icons=true)
 
 
