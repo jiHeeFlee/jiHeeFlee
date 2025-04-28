@@ -73,14 +73,13 @@
 ### 🐈‍⬛ Github Activity
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiHeeFlee&theme=graywhite&show_icons=true)
 
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{jiHeeFlee}?pet-id=670280618821875424" width="1300" height="120"/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jiHeeFlee&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/jiHeeFlee"
+  width="600"
+  height="300"
+/>
 </a>
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{jiHeeFlee}" width="1300"/>
-</a>
-
 
 ### 📫 Information
 ```
