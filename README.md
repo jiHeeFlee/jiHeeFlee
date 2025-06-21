@@ -65,10 +65,11 @@
 #### etc
 > **2023.07 - 12** 경기청년 갭이어 프로그램 2기 : Tori
 
-> **2025.01**  Plink
-
 > **2024.10 - 11** woowacourse 7th precourse - FE 
 
+> **2025.01 - 02**  Plink
+
+> **2025.03 - ing** Plers : Colio
 
 ### 🐈‍⬛ Github Activity
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiHeeFlee&theme=graywhite&show_icons=true)
