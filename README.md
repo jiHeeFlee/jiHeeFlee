@@ -15,7 +15,7 @@
 
 ### ✨ Tech Stack
 #### Developer
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,react,styledcomponents,emotion,next,zustand,vite,vercel,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,react,styledcomponents,emotion,next,vite,vercel,python)](https://skillicons.dev)
 
 #### Cooperation
 [![My Skills](https://skillicons.dev/icons?i=notion,figma,github,discord)](https://skillicons.dev)
