@@ -32,6 +32,7 @@
 
 ### 🤝 Cooperation
 [![My Skills](https://skillicons.dev/icons?i=notion)](https://www.notion.so/Ryu-jihee-Resume-27305acd53e080a1b2ffc7b4c6b5cccb)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jiheeflee/)
 
 ---
 
