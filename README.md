@@ -31,7 +31,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,styledcomponents,emotion,next,vite,vercel,python)](https://skillicons.dev)
 
 ### 🤝 Cooperation
-[![My Skills](https://skillicons.dev/icons?i=notion,figma,github,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=notion)](https://www.notion.so/Ryu-jihee-Resume-27305acd53e080a1b2ffc7b4c6b5cccb)
 
 ---
 
